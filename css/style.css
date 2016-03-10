@@ -1,9 +1,16 @@
 body {
   background: black;
-  color:white; 
+  color: dark grey; 
   font-size: 3em;
 }
 
+body {
+  background: url(http://cdn.shopify.com/s/files/1/0173/4032/products/fabric_rainbolts_lightning_1024x1024.jpg?v=1377899169) fixed center no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding-top: 100px;
+  text-align: center;
+}
 
 div {
      text-align: center;
@@ -13,7 +20,6 @@ div {
 button {
   background:none;
     border:none;
-    margin:-50px;
     padding:0;
 }
 
