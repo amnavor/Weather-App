@@ -4,6 +4,6 @@ Icons and descriptions give additional weather indication along with temperature
 Try it at http://codepen.io/amnavor/full/adWXXr/.
 
 
-![screenshot](https://cloud.githubusercontent.com/assets/12720744/12247625/acb8cdd2-b869-11e5-9bc3-b4ef8caafdd6.png)
-
+![screenshot]((https://cloud.githubusercontent.com/assets/12720744/13688432/c1ca223e-e6d6-11e5-816e-f2850c741024.png))
+Image by Aimee Wilder. See more at aimeewilder.com
  
