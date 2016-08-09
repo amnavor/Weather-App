@@ -1,6 +1,7 @@
 A weather app that uses geo-location data and APIs of OpenWeatherMap.org and ipinfo.io to give 
 the current weather report for user's city.  Units can be toggled between Fahrenheit and Celcius.
-Icons and descriptions give additional weather indication along with temperature. 
+Icons and descriptions give additional weather indication along with temperature. Note: requires
+user to share location data.
 
 
 
